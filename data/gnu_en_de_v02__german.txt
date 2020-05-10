@@ -1,0 +1,64 @@
+<align>Informationen zum GNU-Betriebssystem
+Der Name GNU ist ein rekursives Akronym von GNU’s Not Unix (‚GNU ist nicht Unix‘) und wird [ˈgnuː] ausgesprochen.</align>
+<align>[Weitere historische und allgemeine Artikel über GNU.]</align>
+<align>GNU wurde von Richard Stallman (RMS) im Jahr 1983 als ein Betriebssystem angekündigt, welches von engagierten Menschen zusammengestellt werden würde, die für die Freiheit aller Softwarenutzer zusammenarbeiten, um ihre Datenverarbeitung kontrollieren zu können.</align>
+<align>RMS ist auch heute noch der Chief GNUisance.</align>
+<align>Das primäre und anhaltende Ziel von GNU ist ein unixoides System anzubieten, das 100 % Freie Software wäre.</align>
+<align>Nicht 95%ig, nicht 99,5%ig, sondern 100%ig frei.</align>
+<align>Der Name des Systems, GNU, ist ein rekursives Akronym von GNU’s Not Unix (‚GNU ist Nicht Unix‘) ‑ eine Art, den technischen Ideen von Unix Tribut zu zollen und gleichzeitig zu sagen, dass GNU etwas anderes ist.</align>
+<align>Technisch gesehen ist GNU wie Unix.</align>
+<align>Aber im Gegensatz zu Unix gibt GNU seinen Benutzern Freiheit.</align>
+<align>Vollständig freie Distributionen, die diesem Ziel entsprechen, stehen heute zur Verfügung, viele mit dem GNU Linux-libre-Betriebssystemkern (die Beziehung zwischen GNU und dem Betriebssystemkern Linux wird an anderer Stelle umfassend beschrieben).</align>
+<align>Die GNU-Pakete wurden so aufeinander abgestimmt, damit wir ein funktionierendes GNU-System haben konnten.</align>
+<align>Es hat sich gezeigt, dass sie auch als gemeinsamer Upstream für viele Distributionen dienen, also Beiträge zu GNU-Paketen der Freie-Software-Gemeinschaft als Ganzes helfen.</align>
+<align>Natürlich ist die Arbeit an GNU noch nicht mit dem Ziel abgeschlossen, ein System zu erstellen, das Rechnernutzern die größtmögliche Freiheit gibt.</align>
+<align>GNU-Pakete beinhalten benutzerorientierte Anwendungen, Dienstprogramme, Hilfsprogramme, Bibliotheken, sogar Spiele ‑ alle Programme, die ein Betriebssystem seinen Nutzern zweckmäßigerweise anbieten kann.</align>
+<align>Neue Pakete sind willkommen …</align>
+<align>Tausende von Menschen haben sich angeschlossen, um GNU so erfolgreich zu machen wie es heute ist, und es gibt viele Möglichkeiten um mitzuwirken, sowohl technisch als auch nichttechnisch.</align>
+<align>GNU-Entwickler treffen sich von Zeit zu Zeit auf GNU Hacker Meetings, manchmal als Teil der größeren Freie-Software-Gemeinschaft LibrePlanet-Konferenzen.</align>
+<align>GNU wurde auf verschiedene Weise von der Free Software Foundation (FSF) unterstützt, eine ebenfalls von RMS gegründete gemeinnützige Organisation, um für Freie-Software-Ideale einzutreten.</align>
+<align>Unter anderem akzeptiert die FSF Copyright-Übertragungen und Verzichtserklärungen, damit sie vor Gericht im Namen der GNU-Programme fungieren kann (zur Klarstellung: ein Programm zu GNU beizutragen, erfordert nicht das Copyright an die FSF zu übertragen.</align>
+<align>Wenn man das Copyright zuweist, wird die FSF die GNU GPL für das Programm durchsetzen, sollte jemand dagegen zuwider handeln; behält man das Copyright, liegt die Durchsetzung bei Ihnen.)</align>
+<align>Das endgültige Ziel ist Freie Software bereitzustellen, damit Rechnernutzer alle Aufgaben erledigen können, die sie möchten ‑ und so proprietäre Software zu einer Sache der Vergangenheit zu machen.</align>
+<align>Geschichte des GNU-Systems
+Das Betriebssystem GNU ist ein vollständig freies Softwaresystem und aufwärtskompatibel mit Unix.</align>
+<align>GNU steht für GNU’s Not Unix (‚GNU ist Nicht Unix‘) und wird [ˈgnuː] ausgesprochen.</align>
+<align>Richard Stallman machte im September 1983 die Ursprüngliche Ankündigung des GNU-Projekts.</align>
+<align>Im März 1985 wurde eine längere Fassung, das GNU-Manifest, veröffentlicht.</align>
+<align>Es ist mehrsprachig übersetzt worden.</align>
+<align>Der Name GNU wurde gewählt, weil er einiger Belange erfüllte: erstens war es ein rekursives Akronym für GNU's Not Unix, zweitens, weil es ein tatsächlich vorkommendes Wort war, und drittens, es machte Spaß es auszusprechen (oder zu singen).</align>
+<align>Das Wort Freie in Freie Software bezieht sich auf Freiheit, nicht den Preis.</align>
+<align>Man kann einen Preis dafür bezahlen (oder auch nicht), um GNU-Software zu erhalten.</align>
+<align>So oder so, sobald man die Software besitzt, werden vier konkrete Freiheiten zur Nutzung gewährt. Die Freiheit, das Programm auszuführen wie man möchte.</align>
+<align>Die Freiheit, das Programm zu vervielfältigen und an Freunde und Kollegen weiter zu geben. Die Freiheit, das Programm nach eigenen Wünschen zu ändern, durch uneingeschränkten Zugang zum Quellcode.</align>
+<align>Die Freiheit, eine verbesserte Version zu verbreiten und damit beim Aufbau der Gemeinschaft zu helfen (wenn man GNU-Software weiterverbreitet, kann man ein Entgelt für den physischen Akt der Weitergabe einer Kopie berechnen oder Kopien verschenken).</align>
+<align>Das Projekt zur Entwicklung des GNU-Systems wird als das GNU-Projekt bezeichnet.</align>
+<align>Das GNU-Projekt entstand im Jahr 1983 als eine Möglichkeit, den zusammenarbeitenden Geist zurückzubringen, der in früheren Tagen in der Rechnerwelt vorherrschte ‑ um von Eigentümern proprietärer Software auferlegte Hindernisse zu beseitigen, die die Zusammenarbeit verhinderten und dadurch die Zusammenarbeit wieder möglich werden zu lassen.</align>
+<align>Im Jahr 1971, als Richard Stallman seine Karriere am Massachusetts Institute of Technology (MIT) begann, arbeitete er in einer Gruppe, die ausschließlich Freie Software nutzte.</align>
+<align>Selbst Rechnerfirmen verbreiteten oft freie Software.</align>
+<align>Programmierer konnten jederzeit miteinander zusammenarbeiten ‑ und taten es häufig.</align>
+<align>Bis zu den 1980ern war fast die gesamte Software proprietär, d. h. sie hatte Eigentümer, die die Zusammenarbeit von Nutzern verbieten und verhindern.</align>
+<align>Dies machte das GNU-Projekt notwendig.</align>
+<align>Jeder Rechnernutzer braucht ein Betriebssystem; gibt es kein freies Betriebssystem, dann können Rechner noch nicht einmal ohne proprietäre Software gestartet werden.</align>
+<align>Also musste der erste auf der Freie-Software-Agenda stehende Punkt offensichtlich der eines freien Betriebssystems sein.</align>
+<align>Wir beschlossen, das Betriebssystem mit Unix kompatibel zu machen, weil das Gesamtkonzept bereits bewährt und portierbar war und weil Kompatibilität es für Unix-Benutzer leichter macht, von Unix auf GNU umzusteigen.</align>
+<align>Ein unixoides Betriebssystem enthält einen Betriebssystemkern, Compiler, Editoren, Textverarbeitungen, E-Mail-Software, grafische Oberflächen, Bibliotheken, Spiele und vieles andere mehr.</align>
+<align>Folglich ist das Schreiben eines ganzen Betriebssystems eine sehr große Aufgabe.</align>
+<align>Wir begannen im Januar 1984. Im Oktober 1985 wurde die Free Software Foundation (FSF) gegründet, um anfangs Gelder zur Entwicklung von GNU zu beschaffen.</align>
+<align>Bis 1990 hatten wir entweder die wichtigsten Komponenten gefunden oder geschrieben, mit einer Ausnahme ‑ dem Betriebssystemkern.</align>
+<align>Dann wurde von Linus Torvalds im Jahr 1991 Linux, ein unixoider Betriebssystemkern, entwickelt, und 1992 Freie Software.</align>
+<align>Die Kombination von Linux mit dem beinahe kompletten GNU-System führte zu einem vollständigen Betriebssystem: GNU/Linux.</align>
+<align>Schätzungen zufolge nutzen heute zig Millionen Menschen GNU/Linux-Systeme, typischerweise über GNU/Linux-Distributionen.</align>
+<align>Heute umfasst die Hauptversion von Linux unfreie Firmware-BLOBs; Freie-Software-Aktivisten pflegen inzwischen eine modifizierte Variante namens GNU Linux-libre.</align>
+<align>Allerdings ist das GNU-Projekt nicht nur auf das Kern-Betriebssystem beschränkt.</align>
+<align>Ziel ist eine breite Softwareauswahl ‑ was auch immer von Nutzern gewünscht wird ‑ bereitzustellen.</align>
+<align>Siehe das Free Software Directory für ein Verzeichnis von freien Softwareanwendungsprogrammen.</align>
+<align>Wir möchten auch Software für Nutzer bereitstellen, die keine Rechnerexperten sind.</align>
+<align>Deshalb wurde eine grafische Arbeitsumgebung entwickelt (namens GNOME[1]), um Einsteigern die Nutzung des GNU-Systems zu erleichtern.</align>
+<align>Ebenso möchten wir Spiele und anderes Vergnügliches anbieten.</align>
+<align>Eine Menge freie Spiele sind bereits verfügbar.</align>
+<align>Wie weit kann Freie Software gehen?</align>
+<align>Es gibt keine Grenzen ‑ es sei denn Gesetze wie das Patentsystem verbieten Freie Software!</align>
+<align>Das ultimative Ziel ist Freie Software für alle Aufgaben bereitzustellen, die Rechnernutzer erledigen möchten ‑ und damit proprietäre Software überflüssig zu machen. Anmerkungen des Übersetzungsteams:</align>
+<align>[FSF] Die Free Software Foundation (FSF) ist eine gemeinnützige Organisation mit einer weltweiten Mission die Freiheit von Rechnernutzern zu fördern.</align>
+<align>Wir verteidigen die Rechte aller Softwarenutzer.</align>
