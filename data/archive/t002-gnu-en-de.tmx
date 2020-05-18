@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee9" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why Educational Institutions Should Use and Teach Free Software</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Warum Bildungseinrichtungen Freie Software nutzen und lehren sollten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Schools should teach their students to be citizens of a strong, capable, independent and free society."</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>„Schulen sollten ihren Schülerinnen und Schülern lehren, Bürger einer starken, fähigen, unabhängigen und freien Gesellschaft zu sein.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are the main reasons why universities and schools of all levels should use exclusively Free Software.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Dies sind die wichtigsten Gründe, warum Universitäten und alle Schultypen ausschließlich Freie Software verwenden sollten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sharing</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Gemeinsame Nutzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schools should teach the value of sharing by setting an example.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Schulen sollten den Wert des Teilens mit einem Beispiel lehren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free software supports education by allowing the sharing of knowledge and tools:</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Freie Software fördert die Bildung durch den Austausch von Wissen und Dienstprogrammen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Knowledge<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Wissen<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many young students have a talent for programming; they are fascinated with computers and eager to learn how their systems work.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Viele junge SchülerInnen haben ein Talent für die Programmierung; sie sind von Rechnern fasziniert und begierig zu erfahren, wie ihre Systeme funktionieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With proprietary software, this information is a secret so teachers have no way of making it available to their students.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Diese Informationen sind bei proprietärer Software geheim <ph x="1">&lt;t1/&gt;</ph> Lehrkräfte haben keine Möglichkeit, diese ihren SchülerInnen zugänglich zu machen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>But if it is Free Software, the teacher can explain the basic subject and then hand out the source code for the student to read and learn.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Ist es aber Freie Software, kann die Lehrkraft das wesentliche zum Thema erklären und dann den Quellcode zum Lesen und Lernen an die SchülerInnen aushändigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Dienstprogramme<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers can hand out to <ph x="1">&lt;t1/&gt;</ph>students<ph x="2">&lt;t2/&gt;</ph> copies of the programs they use in the classroom so that they can use them at home.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Lehrkräfte können SchülerInnen im Unterricht genutzte Programmkopien austeilen, damit sie sie zu Hause verwenden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With Free Software, copying is not only authorized, it is encouraged.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Mit freier Software ist das Kopieren nicht nur erlaubt, es ist erwünscht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Social Responsibility</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Gesellschaftliche Verantwortung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Computing has become an essential part of everyday life.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Die Datenverarbeitung ist zu einem wesentlichen Teil des Alltags geworden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Digital technology is transforming society very quickly, and schools have an influence on the future of society.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Digitale Technologie verwandelt die Gesellschaft sehr schnell, und Schulen haben einen Einfluss auf die Zukunft der Gesellschaft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Their mission is to get students ready to participate in a free digital society by teaching them the skills to make it easy for them to take control of their own lives.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Ihre Aufgabe ist es, SchülerInnen für die Teilnahme an einer freien digitalen Gesellschaft vorzubereiten, um es ihnen einfacher zu machen, ihr eigenes Leben selbst in die Hand zu nehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Software should not be under the power of a software developer who unilaterally makes decisions that nobody else can change.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Software sollte nicht unter der Macht eines Softwareentwicklers stehen, der einseitige Entscheidungen treffen kann, die niemand sonst ändern kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Educational institutions should not allow proprietary software companies to impose their power on the rest of society and its future.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Bildungseinrichtungen sollten proprietären Softwareunternehmen nicht erlauben, deren Macht dem Rest der Gesellschaft und seiner Zukunft aufzuerlegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Independence</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Unabhängigkeit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schools have an ethical responsibility to teach strength, not dependency on a single product or a specific powerful company.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Schulen haben eine ethische Verantwortung, Stärke, und nicht die Abhängigkeit eines einzelnen Produkts oder eines bestimmten mächtigen Unternehmen, zu lehren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Furthermore, by choosing to use Free Software, the school itself gains independence from any commercial interests and it avoids vendor lock-in.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Darüber hinaus erhält die Schule selbst, durch die Wahl Freie Software zu nutzen, Unabhängigkeit von kommerziellen Interessen und vermeidet Herstellerabhängigkeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proprietary software companies use schools and universities as a springboard to reach users and thus impose their software on society as a whole.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Proprietäre Softwarefirmen nutzen Schulen und Universitäten als Sprungbrett, um Nutzer zu erreichen und damit ihre Software der Gesellschaft als Ganzes aufzuerlegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They offer discounts, or even gratis copies of their proprietary programs to educational institutions, so that students will learn to use them and become dependent on them.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Sie bieten Bildungseinrichtungen Preisnachlässe oder sogar kostenlose Kopien ihrer proprietären Programme an, damit SchülerInnen deren Benutzung erlernen und von ihnen abhängig bzw. darauf angewiesen sein werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After these students graduate, neither they nor their future employers will be offered discounted copies.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Nachdem diese SchülerInnen später graduieren, werden weder ihnen noch deren künftigen Arbeitgebern ermäßigte Programmkopien angeboten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Essentially, what these companies are doing is they are recruiting schools and universities into agents to lead people to permanent lifelong dependency.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Im Grunde werben diese Firmen Schulen und Universitäten als Mittler an, um Menschen in dauerhafte lebenslange Abhängigkeit zu führen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free software licenses do not expire, which means that once Free Software is adopted, institutions remain independent from the vendor.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Freie Softwarelizenzen sind unbegrenzt gültig <ph x="0">&lt;t0/&gt;</ph> einmal durch Einrichtungen angenommene Freie Software bleibt herstellerunabhängig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moreover, Free Software licenses grant users the rights not only to use the software as they wish, to copy it and distribute it, but also to modify it in order to meet their own needs.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Darüber hinaus gewähren freie Softwarelizenzen Nutzern nicht nur das <ph x="1">&lt;t1/&gt;</ph>Recht zur Nutzung, Vervielfältigung und Verbreitung der Software zu, sondern auch nach eigenen Bedürfnissen anzupassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, if institutions eventually wish to implement a particular function in a piece of software, they can engage the services of any developer to accomplish the task, independently from the original vendor.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Daher können Einrichtungen die Dienstleistung jedes möglichen Entwicklers zum Ausführen der Aufgabe, unabhängig vom ursprünglichen Hersteller, beauftragen, um letztlich bestimmte Softwarefunktionen zu implementieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learning</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Lernen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When deciding where they will study, more and more students are considering whether a university teaches computer science and software development using Free Software.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Bei der Auswahl des Studiums überlegen mehr und mehr künftige Studenten, ob eine Universität Informatik und Softwareentwicklung mit Freie Software unterrichtet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free software means that students are free to study how the programs work and to learn how to adapt them for their own needs.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Freie Software bedeutet, dass Studenten frei sind zu untersuchen, wie Programme arbeiten und zu erlernen, wie sie eigenen Bedürfnissen angepasst werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learning about Free Software also helps in studying software development ethics and professional practice.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Von Freie Software zu Lernen hilft auch bei der Untersuchung der ethischen Softwareentwicklung und der beruflichen Praxis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Einsparung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is an obvious advantage that will appeal immediately to many school administrators, but it is a marginal benefit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Dies ist ein eindeutiger Vorteil, der sofort viele Schulleiter anspricht, aber nur ein geringfügiger Nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The main point of this aspect is that by being authorized to distribute copies of the programs at little or no cost, schools can actually aid families facing financial issues, thus promoting fairness and equal opportunities of learning among students.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Der wichtigste Punkt dieses Aspekts ist, durch die Berechtigung Programmkopien mit geringen oder gar keinen Kosten verbreiten zu können, Schulen tatsächlich Familien mit finanziellen Problemen helfen können und so Fairness und Chancengleichheit des Lernens unter den Studenten fördern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Qualität</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stable, secure and easily installed Free Software solutions are available for education already.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>Stabile, sichere und einfach zu installierende freie Softwarelösungen sind für den Unterricht bereits verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In any case, excellence of performance is a secondary benefit; the ultimate goal is freedom for computer users.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20191202T202034Z">
+        <seg>In jedem Fall sind ausgezeichnete Performance ein Nebeneffekt; das oberste Ziel ist Freiheit für Rechnernutzer.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
